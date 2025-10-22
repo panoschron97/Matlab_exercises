@@ -13,7 +13,7 @@ This repository contains a collection of Matlab exercises likely related to sign
 *   [Installation](#installation)
 *   [Usage](#usage)
 *   [Dependencies](#dependencies)
-*   
+
 ## Installation
 
 1.  Clone the repository:
