@@ -1,4 +1,4 @@
-# Matlab Exercises
+# Matlab exercises
 
 This repository contains a collection of Matlab exercises likely related to signal processing and systems. It includes both `.m` files (Matlab scripts), `.mat` files (Matlab data files) and `.fig` files (Matlab figures). These exercises appear to be structured around two main assignments each exploring various concepts and techniques in signal analysis.
 
