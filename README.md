@@ -19,7 +19,7 @@ This repository contains a collection of Matlab exercises likely related to sign
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/panoschron97/Matlab_exercises.git
+    git clone https://github.com/GMKAKISTOS/Matlab_exercises.git
     ```
 
 2.  Navigate to the project directory:
